@@ -1,0 +1,58 @@
+Notes:
+1. Measurement data – данные измерений;
+2. Apportionment of land – распределение земель;
+3. Boundary surveying – межевание земель;
+4. Land plot – земельный участок;
+5. Nautical surveying – гидрографическая съёмка;
+6. Сircumference – окружность;
+7. Оdometer – одометр, измерительное колесо;
+8. Plane table – мензула;
+9. Vernier – верньер;
+10. Telescopic sight – визирная труба;
+11. Spirit level – спиртововй уровень;
+12. Stadia hairs – дальномерные нити;
+13. Аlignment – визирование.
+Text 3
+MODERN SURVEYING BASIC CONTROL SURVEYS
+Geodetic surveys involve such extensive areas that allowance must
+be made for the Earth’s curvature. Baseline measurements for classical
+triangulation are therefore reduced to sea-level length to start computations,
+and corrections are made for spherical excess in the angular determinations.
+Geodetic operations are classified into four “orders”, according to accuracy, the
+first-order surveys having the smallest permissible error. Primary triangulation
+is performed under rigid specifications to assure first-order accuracy.
+Efforts are now under way to extend and tie together existing continental
+networks by satellite triangulation so as to facilitate the adjustment of all major
+geodetic surveys into a single world datum and determine the size and shape
+of the Earth spheroid with much greater accuracy than heretofore obtained.
+At the same time, current national networks will be strengthened, while the
+remaining amount of work to be done may be somewhat reduced. Satellite
+triangulation became operational in the United States in 1963 with observations
+by Rebound A-13, launched that year, and some prior work using the Echo 1
+8
+and Echo 2 passive reflecting satellites. The first satellite specifically designed
+for geodetic work, Pageos 1, was launched in 1966.
+A first requirement for topographic mapping of a given area is an adequate
+pattern of horizontal and vertical control points, and an initial step is the
+assembly of all such existing information. This consists of descriptions of
+points for which positions (in terms of latitude and longitude) and elevations
+above mean sea level have been determined. They are occasionally located
+at some distance from the immediate project, in which case it is necessary to
+expand from the existing work. This is usually done on second- or third-order
+standards, depending upon the length of circuits involved.
+The accuracy of survey measurements can be improved almost indefinitely
+but only at increased cost. Accordingly, control surveys are used; these consist
+of a comparatively few accurate measurements that cover the area of the project
+and from which short, less accurate measurements are made to the objects
+to be located. The simplest form of horizontal control is the traverse, which
+consists of a series of marked stations connected by measured courses and the
+measured angles between them. When such a series of distances and angles
+returns to its point of beginning or begins and ends at stations of superior
+(more accurate) control, it can be checked and the small errors of measurement
+adjusted for mathematical consistency. By assuming or measuring a direction
+of one of the courses and rectangular coordinates of one of the stations, the
+rectangular coordinates of all the stations can be computed.
+Notes:
+1. Spherical excess – сферический избыток;
+2. Primary triangulation – триангуляция I класса, основная триангуляция;
+3. Traverse - теодолитный ход, полигонометрическая сеть.
